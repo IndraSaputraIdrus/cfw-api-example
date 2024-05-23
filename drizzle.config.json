@@ -1,0 +1,4 @@
+{
+  "dialect": "sqlite",
+  "schema": "./src/lib/db/schema/*"
+}
